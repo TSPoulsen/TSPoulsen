@@ -7,8 +7,6 @@
 
 > 📦 164.7 kB Used in GitHub's Storage 
  > 
-> 🏆 29 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 17 Public Repositories 
@@ -27,5 +25,5 @@ Makefile                 7 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 23/02/2024 18:36:02 UTC
+ Last Updated on 24/02/2024 18:35:27 UTC
 <!--END_SECTION:waka-->
