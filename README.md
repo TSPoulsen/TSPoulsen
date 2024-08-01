@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-987%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-988%20hrs%206%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-214.6%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-214.8%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 170.3 kB Used in GitHub's Storage 
+> 📦 170.6 kB Used in GitHub's Storage 
  > 
-> 🏆 101 Contributions in the Year 2024
+> 🏆 104 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -24,5 +24,5 @@ Other                    11 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 31/07/2024 18:40:20 UTC
+ Last Updated on 01/08/2024 18:39:50 UTC
 <!--END_SECTION:waka-->
