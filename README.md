@@ -1,13 +1,11 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C013%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C017%20hrs%2021%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-217.8%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-218.0%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 172.8 kB Used in GitHub's Storage 
- > 
-> 🏆 113 Contributions in the Year 2024
+> 📦 173.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -19,13 +17,13 @@
 
 ```text
 💬 Programming Languages: 
-TeX                      10 hrs 33 mins      ████████████████████░░░░░   81.49 % 
-Markdown                 1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-Other                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-BibTeX                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+TeX                      16 hrs 54 mins      ██████████████████████░░░   87.53 % 
+Markdown                 1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+Other                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+BibTeX                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 ```
 
 
- Last Updated on 17/08/2024 18:38:21 UTC
+ Last Updated on 18/08/2024 18:37:55 UTC
 <!--END_SECTION:waka-->
