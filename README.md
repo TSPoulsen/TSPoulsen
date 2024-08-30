@@ -17,10 +17,9 @@
 
 ```text
 💬 Programming Languages: 
-TeX                      8 hrs               █████████████████████████   98.98 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 29/08/2024 18:41:49 UTC
+ Last Updated on 30/08/2024 18:41:47 UTC
 <!--END_SECTION:waka-->
