@@ -1,11 +1,13 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C042%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C044%20hrs%2056%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-219.7%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 174.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 122 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -17,11 +19,12 @@
 
 ```text
 💬 Programming Languages: 
-Other                    0 secs              █████████████░░░░░░░░░░░░   53.88 % 
-Groff                    0 secs              ████████░░░░░░░░░░░░░░░░░   30.81 % 
-Text                     0 secs              ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+Other                    1 hr 53 mins        ████████████████████████░   94.91 % 
+Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Groff                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 ```
 
 
- Last Updated on 10/09/2024 18:42:05 UTC
+ Last Updated on 11/09/2024 18:42:05 UTC
 <!--END_SECTION:waka-->
