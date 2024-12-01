@@ -7,21 +7,12 @@
 
 > 📦 175.0 kB Used in GitHub's Storage 
  > 
-> 🏆 122 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 17 Public Repositories 
  > 
 > 🔑 10 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 30/11/2024 18:43:17 UTC
+ Last Updated on 01/12/2024 18:43:55 UTC
 <!--END_SECTION:waka-->
