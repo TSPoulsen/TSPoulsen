@@ -7,8 +7,6 @@
 
 > 📦 177.8 kB Used in GitHub's Storage 
  > 
-> 🏆 20 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 17 Public Repositories 
@@ -25,5 +23,5 @@ Python                   2 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 30/03/2025 18:43:10 UTC
+ Last Updated on 31/03/2025 18:47:08 UTC
 <!--END_SECTION:waka-->
