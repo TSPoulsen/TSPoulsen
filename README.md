@@ -7,6 +7,8 @@
 
 > 📦 177.8 kB Used in GitHub's Storage 
  > 
+> 🏆 21 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 17 Public Repositories 
@@ -17,10 +19,9 @@
 
 ```text
 💬 Programming Languages: 
-TeX                      29 mins             █████████████████████████   98.23 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Other                    0 secs              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/05/2025 18:48:36 UTC
+ Last Updated on 24/05/2025 18:45:12 UTC
 <!--END_SECTION:waka-->
