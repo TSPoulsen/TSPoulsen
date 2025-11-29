@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C172%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C172%20hrs%2054%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-226.8%20thousand%20lines%20of%20code-blue)
 
@@ -20,11 +20,11 @@
 ```text
 💬 Programming Languages: 
 Julia                    2 hrs 12 mins       ████████████░░░░░░░░░░░░░   47.33 % 
-Python                   2 hrs 6 mins        ███████████░░░░░░░░░░░░░░   45.18 % 
+Python                   2 hrs 6 mins        ███████████░░░░░░░░░░░░░░   45.19 % 
 Other                    20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 ```
 
 
- Last Updated on 28/11/2025 18:48:33 UTC
+ Last Updated on 29/11/2025 18:48:08 UTC
 <!--END_SECTION:waka-->
