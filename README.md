@@ -19,13 +19,13 @@
 
 ```text
 💬 Programming Languages: 
-TeX                      2 hrs 50 mins       ██████████████░░░░░░░░░░░   56.29 % 
-Other                    1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   29.09 % 
-Markdown                 33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-sshconfig                6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-conf                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+TeX                      2 hrs 50 mins       █████████████░░░░░░░░░░░░   53.58 % 
+Other                    1 hr 43 mins        ████████░░░░░░░░░░░░░░░░░   32.50 % 
+Markdown                 33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+sshconfig                6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+conf                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 ```
 
 
- Last Updated on 28/02/2026 18:55:15 UTC
+ Last Updated on 01/03/2026 18:56:40 UTC
 <!--END_SECTION:waka-->
