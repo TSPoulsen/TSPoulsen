@@ -19,12 +19,11 @@
 
 ```text
 💬 Programming Languages: 
-TeX                      4 hrs 30 mins       ███████████████████░░░░░░   76.56 % 
-Other                    1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
-BibTeX                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+TeX                      2 hrs 21 mins       ██████████████████░░░░░░░   71.21 % 
+Other                    50 mins             ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
+BibTeX                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 ```
 
 
- Last Updated on 24/03/2026 19:34:51 UTC
+ Last Updated on 25/03/2026 19:25:23 UTC
 <!--END_SECTION:waka-->
