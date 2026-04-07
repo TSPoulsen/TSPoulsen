@@ -19,10 +19,9 @@
 
 ```text
 💬 Programming Languages: 
-Other                    5 mins              ██████████████████████░░░   86.59 % 
-TeX                      0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Other                    4 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/04/2026 19:37:35 UTC
+ Last Updated on 07/04/2026 19:36:38 UTC
 <!--END_SECTION:waka-->
