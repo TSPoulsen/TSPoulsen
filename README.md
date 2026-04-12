@@ -19,12 +19,12 @@
 
 ```text
 💬 Programming Languages: 
-TeX                      1 hr 34 mins        ███████████████████░░░░░░   75.76 % 
-Other                    24 mins             █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
+TeX                      1 hr 34 mins        ███████████████████░░░░░░   75.72 % 
+Other                    24 mins             █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
 Git Config               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 BibTeX                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 ```
 
 
- Last Updated on 11/04/2026 19:10:36 UTC
+ Last Updated on 12/04/2026 19:13:11 UTC
 <!--END_SECTION:waka-->
