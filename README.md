@@ -19,10 +19,11 @@
 
 ```text
 💬 Programming Languages: 
-Other                    7 mins              ██████████████░░░░░░░░░░░   56.61 % 
-Markdown                 5 mins              ███████████░░░░░░░░░░░░░░   43.39 % 
+TeX                      1 hr 45 mins        ████████████████████░░░░░   79.89 % 
+Other                    20 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
 ```
 
 
- Last Updated on 09/06/2026 20:26:43 UTC
+ Last Updated on 10/06/2026 21:06:53 UTC
 <!--END_SECTION:waka-->
