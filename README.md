@@ -19,11 +19,10 @@
 
 ```text
 💬 Programming Languages: 
-TeX                      1 hr 45 mins        ████████████████████░░░░░   79.89 % 
-Other                    20 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+TeX                      1 hr 45 mins        █████████████████████░░░░   85.82 % 
+Other                    17 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
 ```
 
 
- Last Updated on 10/06/2026 21:06:53 UTC
+ Last Updated on 11/06/2026 20:42:19 UTC
 <!--END_SECTION:waka-->
